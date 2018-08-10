@@ -5,4 +5,4 @@ Machine Learning Repository
 
 |Edition|Description|
 |:-|:-|
-|[01 - Classification](https://github.com/IshNjie/Learning_MachineLearning/tree/master/01_Classification)|Wine Quality with data from [UCI](https://archive.ics.uci.edu/ml/datasets/Wine+Quality). Classification through Random Forest, Logistic Regression and Multiple Layer Perceptron|
+|[01 - Classification](https://github.com/IshNjie/Learning_MachineLearning/blob/master/01_Classification/Wine_Classification.ipynb)|Wine Quality with data from [UCI](https://archive.ics.uci.edu/ml/datasets/Wine+Quality). Classification through Random Forest, Logistic Regression and Multiple Layer Perceptron|
