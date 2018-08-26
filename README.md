@@ -1,7 +1,7 @@
 Machine Learning Repository
 ===
 
-#### I want to use this repo to post new code for learning Machine Learning! I will have stories on each of the notebooks on my medium publication: **[DataRegressed](https://medium.com/dataregressed)**
+#### I want to use this repo to post new code for learning Machine Learning! I will have stories on some of the notebooks on my medium publication: **[DataRegressed](https://medium.com/dataregressed)**
 
 |Edition|Description|
 |:-     |:-         |
